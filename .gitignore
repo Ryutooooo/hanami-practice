@@ -1,0 +1,7 @@
+/public/assets*
+/tmp
+vendor
+.bundle
+.DS_Store
+.ruby-version
+.env*
